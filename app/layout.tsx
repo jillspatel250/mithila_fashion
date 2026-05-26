@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Harsh Fashion - Study Tables',
-  description: 'Discover premium fashion collections. Explore elegant designs and exclusive styles at Harsh Fashion.',
+  title: 'Mithila - Study Tables',
+  description: 'Discover premium fashion collections. Explore elegant designs and exclusive styles at Mithila.',
   generator: 'v0.app',
   icons: {
     icon: [

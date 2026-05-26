@@ -17,7 +17,7 @@ export default function Products() {
   const products = [
     {
       id: 1,
-      name: 'MF MITHILA FASHION Natural Wood Laptop Table',
+      name: 'MITHILA Natural Wood Laptop Table',
       category: 'Laptop Tables',
       price: '₹3,499',
       image: '/laptop-table-1.png',
@@ -25,7 +25,7 @@ export default function Products() {
     },
     {
       id: 2,
-      name: 'MF MITHILA FASHION Modern Black Laptop Table',
+      name: 'MITHILA Modern Black Laptop Table',
       category: 'Laptop Tables',
       price: '₹2,999',
       image: '/laptop-table-2.png',
@@ -33,7 +33,7 @@ export default function Products() {
     },
     {
       id: 3,
-      name: 'MF MITHILA FASHION Premium Quality Laptop Desk',
+      name: 'MITHILA Premium Quality Laptop Desk',
       category: 'Laptop Tables',
       price: '₹3,999',
       image: '/laptop-table-3.png',
@@ -41,7 +41,7 @@ export default function Products() {
     },
     {
       id: 4,
-      name: 'MF MITHILA FASHION table Artistic Pink Laptop Table',
+      name: 'MITHILA table Artistic Pink Laptop Table',
       category: 'Laptop Tables',
       price: '₹3,299',
       image: '/laptop-table-4.png',
